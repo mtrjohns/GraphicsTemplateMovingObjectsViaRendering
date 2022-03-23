@@ -1,0 +1,10 @@
+========================================================================
+    References
+========================================================================
+[1]"Convex Hull | Set 1 (Jarvis's Algorithm or Wrapping) - GeeksforGeeks", GeeksforGeeks, 2017. [Online]. Available: http://www.geeksforgeeks.org/convex-hull-set-1-jarviss-algorithm-or-wrapping/. [Accessed: 11- Apr- 2017].
+
+[2]Sedgewick., Algorithms in C, 1st ed. Addison-Wesley Professional, 2002, pp. 353-367.
+
+[3]J.  Hughes, Computer graphics, 1st ed. NewJersey: Prentice Hall Inc, 2002, pp. 600-609.
+
+[4]K.  Loudon, Mastering Algorithms with C, 1st ed. Sebastopol: O'Reilly Media, Inc., 2009, pp. 507-512.
